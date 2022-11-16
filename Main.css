@@ -1,0 +1,75 @@
+.main {
+  height: calc(100vh - 50px);
+  display: flex;
+}
+
+.container-l {
+  max-width: 50%;
+  width: 50%;
+  background-image: url(./background.png);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bird {
+  fill: white;
+  width: 300px;
+}
+
+.container-r {
+  width: 50%;
+  max-width: 50%;
+  background-color: black;
+  color: white;
+  padding: 30px;
+  padding-top: 100px;
+}
+
+.container-r h1 {
+  font-size: 64px;
+  font-weight: 900;
+  padding-top: 40px;
+}
+
+.container-r h2 {
+  font-size: 32px;
+  margin-top: 40px;
+  font-weight: 700;
+}
+
+.smallbird {
+  width: 40px;
+  fill: white;
+  padding-top: 40px;
+}
+
+/* Google logo */
+/* .LgbsSe-Bz112c{
+    width: 20px; 
+} */
+
+.break {
+  display: flex;
+  align-items: center;
+}
+
+.break p {
+  font-weight: 300;
+  margin-left: 135px;
+  margin-top: 5px;
+}
+
+.terms {
+  font-weight: 200;
+  color: gray;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+.already {
+  margin-top: 60px;
+  font-weight: 700;
+}

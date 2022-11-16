@@ -1,0 +1,4 @@
+first time using bootstrap and their buttons!
+styling them was a pain as i had to use inline css, as opposed to my style sheet, not entirley sure why, i think due to the bootstrap css file ?
+the sign in buttons needs their respective logos adding to them but the positioning wasnt working and i dont care to add them anyway. 
+happy with the outcome, just some small portions which are annoying but i cant change
